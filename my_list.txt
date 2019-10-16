@@ -1,0 +1,6 @@
+"Pikachu"
+"Charmander"
+"Charmelion"
+"Charizard"
+"Dunsparce"
+"Donphan"
